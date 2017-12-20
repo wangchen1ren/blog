@@ -10,3 +10,6 @@ tags: 随笔
 
 
 知识付费时代嘛，回头我也整个大V网红什么的玩玩~
+
+
+Ps. 本blog参考 [手把手教你使用Hexo + Github Pages搭建个人独立博客](https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/) 搭建
