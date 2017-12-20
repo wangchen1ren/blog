@@ -1,7 +1,7 @@
 ---
 title: First Blood
 date: 2017-12-20 15:29:12
-tags:
+tags: 随笔
 ---
 
 # 开始随便写写
