@@ -1,19 +1,15 @@
 ---
-title: About
+title: About me
 date: 2017-12-20 15:06:09
 ---
 
-<div style="font-size:12px;border-bottom: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; BACKGROUND: #f6f6f6; HEIGHT: 120px; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid">
-<div style="MARGIN-TOP: 10px; FLOAT: left; MARGIN-LEFT: 5px; MARGIN-RIGHT: 10px">
-<IMG alt="" src="https://avatars1.githubusercontent.com/u/168751?v=3&s=140" width=90 height=100>
-</div>
-<div style="LINE-HEIGHT: 200%; MARGIN-TOP: 10px; COLOR: #000000">
-本文链接：<a href="<%= post.link %>"><%= post.title %></a> <br/>
-作者：
-<a href="http://github.com/wangchen1ren">FroZenpiG</a> <br/>出处：
-<a href="http://wangchen1ren.github.io/">http://wangchen1ren.github.io/</a>
-<br/>本文基于<a target="_blank" title="Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)" href="http://creativecommons.org/licenses/by-sa/4.0/"> 知识共享署名-相同方式共享 4.0 </a>
-国际许可协议发布，欢迎转载，演绎或用于商业目的，但是必须保留本文的署名
-<a href="http://wangchen1ren.github.io/">FroZenpiG</a>及链接。
-</div>
-</div>
+码农，[神策数据](https://sensorsdata.cn/)后端研发。
+
+从小学习写程序，5年级第一次拿区里的奖，长大了又拿市里的省里的奖。偶然拿了个全省的第一名，吹了好些年。
+职业生涯运气还算不错，折腾了bigdata、fintech、blockchain、AI一大堆，在外边都被叫做专家。
+
+写过书: [深度学习原理与TensorFlow实践](https://item.jd.com/12186034.html)
+讲过课: [深度学习基础与TensorFlow实践 @ CSDN学院](https://edu.csdn.net/course/detail/5222)
+做过主题演讲: [2017全球机器学习技术大会](http://bj2017.ml-summit.org/speaker/258)
+
+别的还没啥拿得出手的成绩，等有了再来吹吧
