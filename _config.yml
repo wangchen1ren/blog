@@ -78,7 +78,7 @@ theme: meilidu
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:wangchen1ren/wangchen1ren.github.com.git
+  repo: https://github.com/wangchen1ren/wangchen1ren.github.com
   branch: master
 
 # Extensions
